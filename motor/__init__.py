@@ -1,1 +1,1 @@
-# Motor JBS Sniper
+# Motor JBS Sniper — pacote principal
